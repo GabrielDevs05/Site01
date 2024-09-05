@@ -16,13 +16,13 @@ button{
     padding: 5px;
     padding-left: 7px;
     padding-right: 7px;
+    transition: 0.5s all ease-in-out;
 }
 
 button:hover{
-    transition: 0.5s;
     color: white;
     background-color: rgb(38, 78, 80);
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 }
 
 div img{
